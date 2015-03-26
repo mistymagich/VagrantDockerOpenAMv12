@@ -10,8 +10,10 @@ OpenAMの評価用途。ホストOS Windows 8.1 x64で確認
 - ホストの空きメモリ2GB
 - VirtualBox(https://www.virtualbox.org/)
 - Vagrant(https://www.vagrantup.com/)
-- Vagrant Host Manager(https://github.com/smdahlen/vagrant-hostmanager)
+- Vagrant Host Manager プラグイン(https://github.com/smdahlen/vagrant-hostmanager)
     vagrant plugin install vagrant-hostmanager
+- Vagrant WinNFSd プラグイン (ホストがWindowsのとき) (https://github.com/GM-Alex/vagrant-winnfsd)
+    vagrant plugin install vagrant-winnfsd
 
 # 起動方法
 
