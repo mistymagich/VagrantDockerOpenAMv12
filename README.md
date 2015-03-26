@@ -17,9 +17,11 @@ OpenAMの評価用途。ホストOS Windows 8.1 x64で確認
 
 # 起動方法
 
-	git clone https://github.com/mistymagich/Vagrant-Docker-OpenAMv12.git
-    cd Vagrant-Docker-OpenAMv12
-    vagrant up
+```bash
+	$ git clone https://github.com/mistymagich/VagrantDockerOpenAMv12.git
+    $ cd Vagrant-Docker-OpenAMv12
+    $ vagrant up
+```
 
 # 初期設定
 
